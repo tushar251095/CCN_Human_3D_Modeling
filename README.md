@@ -14,7 +14,7 @@
 
    The Client-Server model with WebRTC and ML model describes a system where clients use WebRTC technology to establish a real-time, peer-to-peer communication channel with a server. The server hosts a machine learning model that is used to process and analyze data received from the clients. The clients can send data to the server in real-time, and receive results from the ML model, allowing for dynamic and interactive communication between the two components. This setup enables users to receive immediate results from the ML model without the need for a long and slow data transfer process, making it a highly efficient and effective solution for a wide range of applications.
 
-   ![Client Server Model]("")
+   ![Client Server Model]("https://github.com/tushar251095/CCN_Human_3D_Modeling/blob/main/Architecture.jpg?raw=true")
 
 ## Project plan
 

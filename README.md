@@ -14,13 +14,13 @@
 
 ## Project plan
 
-| Column 1 | Column 2 |
+| Week | Plan |
 |----------|----------|
-| Row 1, Column 1 | Row 1, Column 2 |
-| Row 2, Column 1 | Row 2, Column 2 |
-| Row 3, Column 1 | Row 3, Column 2 |
-| Row 4, Column 1 | Row 4, Column 2 |
-| Row 5, Column 1 | Row 5, Column 2 |
-| Row 6, Column 1 | Row 6, Column 2 |
-| Row 7, Column 1 | Row 7, Column 2 |
-| Row 8, Column 1 | Row 8, Column 2 |
+| Week 1 | Write plan here |
+| Week 2 | Write plan here |
+| Week 3 | Write plan here |
+| Week 4 | Write plan here |
+| Week 5 | Write plan here |
+| Week 6 | Write plan here |
+| Week 7 | Write plan here |
+| Week 8 | Write plan here |
